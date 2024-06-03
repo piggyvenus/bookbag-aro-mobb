@@ -22,7 +22,7 @@ Upgrade channel is not configured by default
 By default, the https://docs.openshift.com/container-platform/4.11/updating/understanding-upgrade-channels-release.html[upgrade channel] (which is used to recommend the appropriate release versions for cluster updates), is not set in ARO.
 ====
 
-. In the *Channel* field, enter `stable-4.11` to set the upgrade channel to the stable releases of OpenShift 4.11 and click *Save*.
+. In the *Channel* field, enter `stable-4.12` to set the upgrade channel to the stable releases of OpenShift 4.12 and click *Save*.
 +
 image::../../media/web-console-input-channel.png[Web Console - Input Channel]
 
